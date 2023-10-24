@@ -14,6 +14,7 @@ In Chicago city many car accidents are occuring hence there is need to investiga
 
 ## OBJECTIVES
 The main Objective of this dataset is to:
+
 a) Investigate the primary cause of the road accidents
 
 b) Investigate the months when the road accidents occurs the most times.
