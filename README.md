@@ -1,6 +1,6 @@
 # CHICAGO-CAR-CRASHES
 
-![ivana-cajina-WPVtT0MEM00-unsplash](https://github.com/christinekirimi/CHICAGO-CAR-CRASHES/assets/136499900/516a5689-c543-48e9-97a8-25da51311983)
+![ivana-cajina-WPVtT0MEM00-unsplash](https://github.com/christinekirimi/CHICAGO-CAR-CRASHES/assets/136499900/33c89d79-aaca-4b6d-b045-fa8134a50aed)
 
 ## BUSINESS UNDERSTANDING
 
