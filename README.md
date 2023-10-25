@@ -36,14 +36,9 @@ A link to the main dataset can be found here: https://data.cityofchicago.org/Tra
 ## MODELLING
 We are building a model to predict primary cause of accidents:
 
-IMPROPER/AGGRESSIVE DRIVING    95058
-UNABLE TO DETERMINE                      79529
-RECKLESS BEHAVIOR                          55134
-EXTERNAL FACTORS/ OTHER             21926
-
-
 The above is a summary of the main primary cause of the accidents, it is showing the number of data points it represents
-We used logist
+We used logistic regression, decision trees and K-Nearest Neighbors. K-Nearest Neighbours was our best performing model.
+
 ![image](https://github.com/christinekirimi/CHICAGO-CAR-CRASHES/assets/136499900/f2a6dafa-482c-4a78-ae12-f783628c74cd)
 
 
